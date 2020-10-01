@@ -4,6 +4,7 @@ using System.Linq;
 using System.Windows.Forms;
 using Workshop4_DH;
 
+// Coded by:
 namespace cprg200_Workshop
 {
     public partial class frmModifyPackage : Form
@@ -16,7 +17,7 @@ namespace cprg200_Workshop
             InitializeComponent();
         }
 
-        //
+        
         private void frmModifyPackage_Load(object sender, EventArgs e)
         {
             DisplayCurrentPackage();
@@ -24,7 +25,7 @@ namespace cprg200_Workshop
             txtPkgName.Focus();
         }
 
-        //
+        
         private void DisplayCurrentPackage()
         {
             // display currently selected package details to modify
@@ -37,7 +38,7 @@ namespace cprg200_Workshop
             txtPkgAgencyCommission.Text = Convert.ToDecimal(currentPackage.PkgAgencyCommission).ToString("f2");
         }
         
-        //
+        // validate the users entries
         private void btnSaveMod_Click(object sender, EventArgs e)
         {
             if (Validator.IsProvided(txtPkgName,"Package Name") &&

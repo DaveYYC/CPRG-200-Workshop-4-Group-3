@@ -3,6 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
+
+//Coded by: David Hahner and incorporated into to applicable forms 
+
 namespace Workshop4_DH
 {
     public static class Validator
@@ -11,7 +14,7 @@ namespace Workshop4_DH
         public static bool IsProvided(TextBox tb, string name)
         {
             bool result = true; // "innocent until proven guilty"
-            if (tb.Text == "")   // empty textbox
+            if (tb.Text == "")  // empty textbox
             {
                 result = false;
                 MessageBox.Show("Please enter the " + name);
@@ -59,7 +62,7 @@ namespace Workshop4_DH
                 return false;
             }
         }
-        //test if input is a non-negative decimal
+        // test if input is a non-negative decimal
         public static bool IsNonNegativeDouble(TextBox tb, string name)
         {
             bool result = true;

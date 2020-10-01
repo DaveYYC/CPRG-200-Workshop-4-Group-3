@@ -6,6 +6,7 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using cprg200_Workshop;
 
+// Coded by: 
 namespace Workshop_Shell_Project
 {
     public partial class frmAddModifyProdSuppltbl : Form

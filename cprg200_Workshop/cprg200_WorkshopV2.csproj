@@ -97,6 +97,9 @@
     <Compile Include="StartPage.Designer.cs">
       <DependentUpon>StartPage.cs</DependentUpon>
     </Compile>
+    <Compile Include="TravelExpert.cs">
+      <DependentUpon>TravelExpert.dbml</DependentUpon>
+    </Compile>
     <Compile Include="TravelExpert.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

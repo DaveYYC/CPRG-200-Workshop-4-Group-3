@@ -2,9 +2,9 @@
 using System;
 using System.Data.Linq;
 using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 
+// coded by: David Hahner
 namespace Workshop4_DH
 {
     public partial class frmAddModifyProducts : Form

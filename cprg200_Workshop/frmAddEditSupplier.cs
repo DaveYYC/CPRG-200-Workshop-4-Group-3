@@ -5,11 +5,12 @@ using System.Linq;
 using System.Windows.Forms;
 using Workshop4_DH;
 
+// Coded by: 
 namespace cprg200_Workshop
 {
     public partial class frmAddEditSupplier : Form
     {
-        public bool isAdd; //main form sets it
+        public bool isAdd; // main form sets it
         public Supplier currentSupplier;  // main form sets it
         public frmAddEditSupplier()
         {

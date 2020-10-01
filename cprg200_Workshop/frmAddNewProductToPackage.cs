@@ -6,6 +6,7 @@ using System.Linq;
 using System.Windows.Forms;
 using Workshop4_DH;
 
+// Coded by: 
 namespace cprg200_Workshop
 {
     public partial class frmAddNewProductToPackage : Form

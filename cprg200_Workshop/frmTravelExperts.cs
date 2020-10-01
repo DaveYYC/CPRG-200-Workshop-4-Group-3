@@ -6,6 +6,10 @@ using System.Windows.Forms;
 using Workshop_Shell_Project;
 using Workshop4_DH;
 
+/* Group 3 collaborated on the frmTravelExperts layout using tabs */
+// Each group member added the applicable code here for their repective form(s).
+
+// code written by: 
 namespace cprg200_Workshop
 {
     public partial class btnSaveProducts : Form
@@ -23,7 +27,7 @@ namespace cprg200_Workshop
             tabControl1.SelectedIndex = 0;
         }
 
-        // populate combo bod as the form loads
+        // populate combo box as the form loads
         private void Form1_Load(object sender, EventArgs e)
         {
             loadComboBox_Package();
@@ -162,7 +166,6 @@ namespace cprg200_Workshop
             if (result == DialogResult.OK) // new row got inserted
             {
                 loadComboBox_Supplier();
-                
             }
         }
         
@@ -223,6 +226,7 @@ namespace cprg200_Workshop
             this.Close();
         }
        //*************************************** Product Tab ********************************************
+       // code written by David Hahner
         private void tabProducts_Click(object sender, EventArgs e)
         {
             using (TravelExpertDataContext dbContext = new TravelExpertDataContext())
@@ -312,6 +316,7 @@ namespace cprg200_Workshop
             Close();
         }
         // ******************************** Product Supplier Tab ***************************************************
+        // code written by:
         private void productSupplierIdComboBox_SelectedIndexChanged(object sender, EventArgs e)
         {
             TravelExpertDataContext dataContext = new TravelExpertDataContext();
@@ -413,6 +418,7 @@ namespace cprg200_Workshop
         }
 
         /******* Attempt to separate the main window ability to add new product to database****/
+
         private void btnNewProducts_Click(object sender, EventArgs e)
         {
             int pack_id = Convert.ToInt32(cboPackageId.SelectedValue);
@@ -480,7 +486,6 @@ namespace cprg200_Workshop
 
         private void tabProductSupplier_Click(object sender, EventArgs e)
         {
-
         }
     }
 }

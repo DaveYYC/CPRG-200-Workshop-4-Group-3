@@ -69,6 +69,7 @@
             this.cboSupplierId = new System.Windows.Forms.ComboBox();
             this.txtSupName = new System.Windows.Forms.TextBox();
             this.tabProducts = new System.Windows.Forms.TabPage();
+            this.lblProducts = new System.Windows.Forms.Label();
             this.btnExit2 = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnModify = new System.Windows.Forms.Button();
@@ -196,7 +197,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new System.Drawing.Font("Georgia", 9.75F, System.Drawing.FontStyle.Bold);
-            label1.Location = new System.Drawing.Point(471, 263);
+            label1.Location = new System.Drawing.Point(453, 269);
             label1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             label1.Name = "label1";
             label1.Size = new System.Drawing.Size(150, 20);
@@ -207,7 +208,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new System.Drawing.Font("Georgia", 9.75F, System.Drawing.FontStyle.Bold);
-            label2.Location = new System.Drawing.Point(471, 157);
+            label2.Location = new System.Drawing.Point(453, 163);
             label2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             label2.Name = "label2";
             label2.Size = new System.Drawing.Size(144, 20);
@@ -218,7 +219,7 @@
             // 
             productIdLabel.AutoSize = true;
             productIdLabel.Font = new System.Drawing.Font("Georgia", 9.75F, System.Drawing.FontStyle.Bold);
-            productIdLabel.Location = new System.Drawing.Point(471, 113);
+            productIdLabel.Location = new System.Drawing.Point(453, 119);
             productIdLabel.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             productIdLabel.Name = "productIdLabel";
             productIdLabel.Size = new System.Drawing.Size(113, 20);
@@ -229,7 +230,7 @@
             // 
             productSupplierIdLabel.AutoSize = true;
             productSupplierIdLabel.Font = new System.Drawing.Font("Georgia", 9.75F, System.Drawing.FontStyle.Bold);
-            productSupplierIdLabel.Location = new System.Drawing.Point(95, 119);
+            productSupplierIdLabel.Location = new System.Drawing.Point(80, 119);
             productSupplierIdLabel.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             productSupplierIdLabel.Name = "productSupplierIdLabel";
             productSupplierIdLabel.Size = new System.Drawing.Size(196, 20);
@@ -240,7 +241,7 @@
             // 
             supplierIdLabel.AutoSize = true;
             supplierIdLabel.Font = new System.Drawing.Font("Georgia", 9.75F, System.Drawing.FontStyle.Bold);
-            supplierIdLabel.Location = new System.Drawing.Point(471, 208);
+            supplierIdLabel.Location = new System.Drawing.Point(453, 214);
             supplierIdLabel.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             supplierIdLabel.Name = "supplierIdLabel";
             supplierIdLabel.Size = new System.Drawing.Size(119, 20);
@@ -367,17 +368,17 @@
             // 
             this.lstCurrentProducts.FormattingEnabled = true;
             this.lstCurrentProducts.ItemHeight = 18;
-            this.lstCurrentProducts.Location = new System.Drawing.Point(839, 85);
+            this.lstCurrentProducts.Location = new System.Drawing.Point(806, 85);
             this.lstCurrentProducts.Margin = new System.Windows.Forms.Padding(4);
             this.lstCurrentProducts.Name = "lstCurrentProducts";
-            this.lstCurrentProducts.Size = new System.Drawing.Size(232, 328);
+            this.lstCurrentProducts.Size = new System.Drawing.Size(265, 328);
             this.lstCurrentProducts.TabIndex = 26;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Georgia", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label3.Location = new System.Drawing.Point(810, 38);
+            this.label3.Location = new System.Drawing.Point(795, 38);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(276, 23);
@@ -573,6 +574,7 @@
             // 
             this.tabProducts.AutoScroll = true;
             this.tabProducts.BackColor = System.Drawing.SystemColors.HighlightText;
+            this.tabProducts.Controls.Add(this.lblProducts);
             this.tabProducts.Controls.Add(this.btnExit2);
             this.tabProducts.Controls.Add(this.btnDelete);
             this.tabProducts.Controls.Add(this.btnModify);
@@ -582,10 +584,20 @@
             this.tabProducts.Margin = new System.Windows.Forms.Padding(5);
             this.tabProducts.Name = "tabProducts";
             this.tabProducts.Padding = new System.Windows.Forms.Padding(5);
-            this.tabProducts.Size = new System.Drawing.Size(1157, 547);
+            this.tabProducts.Size = new System.Drawing.Size(1124, 547);
             this.tabProducts.TabIndex = 2;
             this.tabProducts.Text = "Products";
             this.tabProducts.Click += new System.EventHandler(this.tabProducts_Click);
+            // 
+            // lblProducts
+            // 
+            this.lblProducts.AutoSize = true;
+            this.lblProducts.Font = new System.Drawing.Font("Georgia", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblProducts.Location = new System.Drawing.Point(437, 16);
+            this.lblProducts.Name = "lblProducts";
+            this.lblProducts.Size = new System.Drawing.Size(306, 29);
+            this.lblProducts.TabIndex = 8;
+            this.lblProducts.Text = "Select A Product to Edit";
             // 
             // btnExit2
             // 
@@ -647,19 +659,19 @@
             this.productIdDataGridViewTextBoxColumn,
             this.prodNameDataGridViewTextBoxColumn});
             this.productDataGridView.DataSource = this.productBindingSource1;
-            this.productDataGridView.Location = new System.Drawing.Point(396, 38);
+            this.productDataGridView.Location = new System.Drawing.Point(379, 47);
             this.productDataGridView.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.productDataGridView.Name = "productDataGridView";
             this.productDataGridView.ReadOnly = true;
             this.productDataGridView.RowHeadersWidth = 51;
             this.productDataGridView.RowTemplate.Height = 24;
-            this.productDataGridView.Size = new System.Drawing.Size(381, 394);
+            this.productDataGridView.Size = new System.Drawing.Size(434, 402);
             this.productDataGridView.TabIndex = 0;
             // 
             // productIdDataGridViewTextBoxColumn
             // 
             this.productIdDataGridViewTextBoxColumn.DataPropertyName = "ProductId";
-            this.productIdDataGridViewTextBoxColumn.HeaderText = "ProductId";
+            this.productIdDataGridViewTextBoxColumn.HeaderText = "Product Id";
             this.productIdDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.productIdDataGridViewTextBoxColumn.Name = "productIdDataGridViewTextBoxColumn";
             this.productIdDataGridViewTextBoxColumn.ReadOnly = true;
@@ -668,11 +680,11 @@
             // prodNameDataGridViewTextBoxColumn
             // 
             this.prodNameDataGridViewTextBoxColumn.DataPropertyName = "ProdName";
-            this.prodNameDataGridViewTextBoxColumn.HeaderText = "ProdName";
+            this.prodNameDataGridViewTextBoxColumn.HeaderText = "Product Name";
             this.prodNameDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.prodNameDataGridViewTextBoxColumn.Name = "prodNameDataGridViewTextBoxColumn";
             this.prodNameDataGridViewTextBoxColumn.ReadOnly = true;
-            this.prodNameDataGridViewTextBoxColumn.Width = 125;
+            this.prodNameDataGridViewTextBoxColumn.Width = 200;
             // 
             // productBindingSource1
             // 
@@ -698,7 +710,7 @@
             this.tabProductSupplier.Location = new System.Drawing.Point(4, 27);
             this.tabProductSupplier.Margin = new System.Windows.Forms.Padding(5);
             this.tabProductSupplier.Name = "tabProductSupplier";
-            this.tabProductSupplier.Size = new System.Drawing.Size(1184, 547);
+            this.tabProductSupplier.Size = new System.Drawing.Size(1124, 547);
             this.tabProductSupplier.TabIndex = 3;
             this.tabProductSupplier.Text = "Product Supplier";
             this.tabProductSupplier.Click += new System.EventHandler(this.tabProductSupplier_Click);
@@ -707,7 +719,7 @@
             // 
             this.btnDeleteProductSup.BackColor = System.Drawing.Color.PaleTurquoise;
             this.btnDeleteProductSup.Font = new System.Drawing.Font("Georgia", 9.75F, System.Drawing.FontStyle.Bold);
-            this.btnDeleteProductSup.Location = new System.Drawing.Point(721, 376);
+            this.btnDeleteProductSup.Location = new System.Drawing.Point(688, 376);
             this.btnDeleteProductSup.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.btnDeleteProductSup.Name = "btnDeleteProductSup";
             this.btnDeleteProductSup.Size = new System.Drawing.Size(159, 49);
@@ -720,7 +732,7 @@
             // 
             this.button1.BackColor = System.Drawing.Color.LightCoral;
             this.button1.Font = new System.Drawing.Font("Georgia", 9.75F, System.Drawing.FontStyle.Bold);
-            this.button1.Location = new System.Drawing.Point(1002, 376);
+            this.button1.Location = new System.Drawing.Point(978, 376);
             this.button1.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(89, 49);
@@ -733,7 +745,7 @@
             // 
             this.btnModProdSup.BackColor = System.Drawing.Color.LightGreen;
             this.btnModProdSup.Font = new System.Drawing.Font("Georgia", 9.75F, System.Drawing.FontStyle.Bold);
-            this.btnModProdSup.Location = new System.Drawing.Point(425, 376);
+            this.btnModProdSup.Location = new System.Drawing.Point(383, 376);
             this.btnModProdSup.Margin = new System.Windows.Forms.Padding(5);
             this.btnModProdSup.Name = "btnModProdSup";
             this.btnModProdSup.Size = new System.Drawing.Size(159, 49);
@@ -746,7 +758,7 @@
             // 
             this.btnAddProdSup.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.btnAddProdSup.Font = new System.Drawing.Font("Georgia", 9.75F, System.Drawing.FontStyle.Bold);
-            this.btnAddProdSup.Location = new System.Drawing.Point(145, 376);
+            this.btnAddProdSup.Location = new System.Drawing.Point(108, 376);
             this.btnAddProdSup.Margin = new System.Windows.Forms.Padding(5);
             this.btnAddProdSup.Name = "btnAddProdSup";
             this.btnAddProdSup.Size = new System.Drawing.Size(159, 49);
@@ -758,17 +770,17 @@
             // supNameTextBox
             // 
             this.supNameTextBox.Enabled = false;
-            this.supNameTextBox.Location = new System.Drawing.Point(648, 260);
+            this.supNameTextBox.Location = new System.Drawing.Point(630, 266);
             this.supNameTextBox.Margin = new System.Windows.Forms.Padding(5);
             this.supNameTextBox.Name = "supNameTextBox";
             this.supNameTextBox.ReadOnly = true;
-            this.supNameTextBox.Size = new System.Drawing.Size(443, 26);
+            this.supNameTextBox.Size = new System.Drawing.Size(429, 26);
             this.supNameTextBox.TabIndex = 23;
             // 
             // prodNameTextBox
             // 
             this.prodNameTextBox.Enabled = false;
-            this.prodNameTextBox.Location = new System.Drawing.Point(648, 153);
+            this.prodNameTextBox.Location = new System.Drawing.Point(630, 159);
             this.prodNameTextBox.Margin = new System.Windows.Forms.Padding(5);
             this.prodNameTextBox.Name = "prodNameTextBox";
             this.prodNameTextBox.ReadOnly = true;
@@ -778,7 +790,7 @@
             // productIdTextBox
             // 
             this.productIdTextBox.Enabled = false;
-            this.productIdTextBox.Location = new System.Drawing.Point(648, 116);
+            this.productIdTextBox.Location = new System.Drawing.Point(630, 122);
             this.productIdTextBox.Margin = new System.Windows.Forms.Padding(5);
             this.productIdTextBox.Name = "productIdTextBox";
             this.productIdTextBox.ReadOnly = true;
@@ -788,7 +800,7 @@
             // productSupplierIdComboBox
             // 
             this.productSupplierIdComboBox.FormattingEnabled = true;
-            this.productSupplierIdComboBox.Location = new System.Drawing.Point(316, 116);
+            this.productSupplierIdComboBox.Location = new System.Drawing.Point(301, 116);
             this.productSupplierIdComboBox.Margin = new System.Windows.Forms.Padding(5);
             this.productSupplierIdComboBox.Name = "productSupplierIdComboBox";
             this.productSupplierIdComboBox.Size = new System.Drawing.Size(82, 26);
@@ -798,7 +810,7 @@
             // supplierIdTextBox
             // 
             this.supplierIdTextBox.Enabled = false;
-            this.supplierIdTextBox.Location = new System.Drawing.Point(648, 204);
+            this.supplierIdTextBox.Location = new System.Drawing.Point(630, 210);
             this.supplierIdTextBox.Margin = new System.Windows.Forms.Padding(5);
             this.supplierIdTextBox.Name = "supplierIdTextBox";
             this.supplierIdTextBox.ReadOnly = true;
@@ -834,6 +846,7 @@
             this.tabSupplier.ResumeLayout(false);
             this.tabSupplier.PerformLayout();
             this.tabProducts.ResumeLayout(false);
+            this.tabProducts.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.productDataGridView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.productBindingSource1)).EndInit();
             this.tabProductSupplier.ResumeLayout(false);
@@ -865,8 +878,6 @@
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.DataGridView productDataGridView;
         private System.Windows.Forms.Button btnExit2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn productIdDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn prodNameDataGridViewTextBoxColumn;
         private System.Windows.Forms.BindingSource productBindingSource1;
         private System.Windows.Forms.Button btnModProdSup;
         private System.Windows.Forms.Button btnAddProdSup;
@@ -892,6 +903,9 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnDeleteProductSup;
+        private System.Windows.Forms.DataGridViewTextBoxColumn productIdDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn prodNameDataGridViewTextBoxColumn;
+        private System.Windows.Forms.Label lblProducts;
     }
 }
 
