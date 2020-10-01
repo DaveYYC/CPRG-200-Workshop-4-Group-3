@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="TravelExperts" Class="TravelExpertDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=localhost\sqlexpress;Initial Catalog=TravelExperts;Integrated Security=True" SettingsObjectName="cprg200_Workshop.Properties.Settings" SettingsPropertyName="TravelExpertsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Packages" Member="Packages">
+    <Type Name="Package">
+      <Column Name="PackageId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PkgName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PkgStartDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="PkgEndDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="PkgDesc" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PkgBasePrice" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="PkgAgencyCommission" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Association Name="Package_Packages_Products_Supplier" Member="Packages_Products_Suppliers" ThisKey="PackageId" OtherKey="PackageId" Type="Packages_Products_Supplier" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Packages_Products_Suppliers" Member="Packages_Products_Suppliers">
+    <Type Name="Packages_Products_Supplier">
+      <Column Name="PackageId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ProductSupplierId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="Package_Packages_Products_Supplier" Member="Package" ThisKey="PackageId" OtherKey="PackageId" Type="Package" IsForeignKey="true" />
+      <Association Name="Products_Supplier_Packages_Products_Supplier" Member="Products_Supplier" ThisKey="ProductSupplierId" OtherKey="ProductSupplierId" Type="Products_Supplier" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Products" Member="Products">
+    <Type Name="Product">
+      <Column Name="ProductId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ProdName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Product_Products_Supplier" Member="Products_Suppliers" ThisKey="ProductId" OtherKey="ProductId" Type="Products_Supplier" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Products_Suppliers" Member="Products_Suppliers">
+    <Type Name="Products_Supplier">
+      <Column Name="ProductSupplierId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ProductId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SupplierId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Products_Supplier_Packages_Products_Supplier" Member="Packages_Products_Suppliers" ThisKey="ProductSupplierId" OtherKey="ProductSupplierId" Type="Packages_Products_Supplier" />
+      <Association Name="Product_Products_Supplier" Member="Product" ThisKey="ProductId" OtherKey="ProductId" Type="Product" IsForeignKey="true" />
+      <Association Name="Supplier_Products_Supplier" Member="Supplier" ThisKey="SupplierId" OtherKey="SupplierId" Type="Supplier" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Suppliers" Member="Suppliers">
+    <Type Name="Supplier">
+      <Column Name="SupplierId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SupName" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Association Name="Supplier_Products_Supplier" Member="Products_Suppliers" ThisKey="SupplierId" OtherKey="SupplierId" Type="Products_Supplier" />
+    </Type>
+  </Table>
+</Database>

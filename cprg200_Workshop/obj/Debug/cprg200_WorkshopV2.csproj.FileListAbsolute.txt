@@ -1,0 +1,124 @@
+C:\Users\hahne\Desktop\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe.config
+C:\Users\hahne\Desktop\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe
+C:\Users\hahne\Desktop\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.pdb
+C:\Users\hahne\Desktop\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csprojAssemblyReference.cache
+C:\Users\hahne\Desktop\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\Workshop_Shell_Project.frmAddModifyProdSuppltbl.resources
+C:\Users\hahne\Desktop\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\Workshop4_DH.frmAddModifyProducts.resources
+C:\Users\hahne\Desktop\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmTravelExperts.resources
+C:\Users\hahne\Desktop\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddEditSupplier.resources
+C:\Users\hahne\Desktop\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.Properties.Resources.resources
+C:\Users\hahne\Desktop\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.GenerateResource.cache
+C:\Users\hahne\Desktop\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.CoreCompileInputs.cache
+C:\Users\hahne\Desktop\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.exe
+C:\Users\hahne\Desktop\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.pdb
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe.config
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.pdb
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csprojAssemblyReference.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\Workshop_Shell_Project.frmAddModifyProdSuppltbl.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\Workshop4_DH.frmAddModifyProducts.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddEditSupplier.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.Properties.Resources.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.GenerateResource.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.exe
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.pdb
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_DH_Rev1\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.btnSaveProducts.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe.config
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.pdb
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csprojAssemblyReference.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\Workshop_Shell_Project.frmAddModifyProdSuppltbl.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\Workshop4_DH.frmAddModifyProducts.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.btnSaveProducts.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddEditSupplier.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.Properties.Resources.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.GenerateResource.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.exe
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.pdb
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddNewProductToPackage.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddPackage.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\Rev 3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmModifyPackage.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe.config
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.pdb
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csprojAssemblyReference.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\Workshop_Shell_Project.frmAddModifyProdSuppltbl.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\Workshop4_DH.frmAddModifyProducts.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddNewProductToPackage.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddPackage.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmModifyPackage.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.btnSaveProducts.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddEditSupplier.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.Properties.Resources.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.GenerateResource.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.exe
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.pdb
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe.config
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\bin\Debug\cprg200_Workshop.pdb
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csprojAssemblyReference.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\obj\Debug\Workshop_Shell_Project.frmAddModifyProdSuppltbl.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\obj\Debug\Workshop4_DH.frmAddModifyProducts.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddNewProductToPackage.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddPackage.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmModifyPackage.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.btnSaveProducts.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddEditSupplier.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.Properties.Resources.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.GenerateResource.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.exe
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_4_Rev3_LS_OLD\cprg200_Workshop\cprg200_Workshop\obj\Debug\cprg200_Workshop.pdb
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe.config
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\bin\Debug\cprg200_Workshop.pdb
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csprojAssemblyReference.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\obj\Debug\Workshop_Shell_Project.frmAddModifyProdSuppltbl.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\obj\Debug\Workshop4_DH.frmAddModifyProducts.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddNewProductToPackage.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddPackage.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmModifyPackage.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.btnSaveProducts.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddEditSupplier.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.Properties.Resources.resources
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.GenerateResource.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.exe
+C:\Users\Manpower\Desktop\RAD  class\_Workshop4\cprg200_Workshop_Rev4_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.pdb
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe.config
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\bin\Debug\cprg200_Workshop.pdb
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csprojAssemblyReference.cache
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\Workshop_Shell_Project.frmAddModifyProdSuppltbl.resources
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\Workshop4_DH.frmAddModifyProducts.resources
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddNewProductToPackage.resources
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddPackage.resources
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmModifyPackage.resources
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.btnSaveProducts.resources
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddEditSupplier.resources
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.Properties.Resources.resources
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.GenerateResource.cache
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.CoreCompileInputs.cache
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.exe
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.pdb
+C:\Users\hahne\Desktop\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmDashboard.resources
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe.config
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\bin\Debug\cprg200_Workshop.exe
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\bin\Debug\cprg200_Workshop.pdb
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csprojAssemblyReference.cache
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\Workshop_Shell_Project.frmAddModifyProdSuppltbl.resources
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\Workshop4_DH.frmAddModifyProducts.resources
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddNewProductToPackage.resources
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddPackage.resources
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmModifyPackage.resources
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.btnSaveProducts.resources
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.frmAddEditSupplier.resources
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.Properties.Resources.resources
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.GenerateResource.cache
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_WorkshopV2.csproj.CoreCompileInputs.cache
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.exe
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.pdb
+C:\Users\hahne\source\repos\cprg200_Workshop_Rev5_For_Now\cprg200_Workshop_Rev5_Sept15_2020_LS\cprg200_Workshop\obj\Debug\cprg200_Workshop.StartPage.resources
